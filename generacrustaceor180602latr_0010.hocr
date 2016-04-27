@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./generacrustaceor180602latr_0010.png"; bbox 0 0 2080 3744; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 424 1228 1935 1333">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 424 1228 1935 1333">
+     <span class='ocr_line' id='line_1_1' title="bbox 424 1228 1935 1333; baseline -0.039 0"><span class='ocrx_word' id='word_1_1' title='bbox 424 1283 582 1333; x_wconf 79' lang='lat' dir='ltr'><strong><em>Nota.</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 619 1267 929 1324; x_wconf 80' lang='lat' dir='ltr'><strong>Mendorum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 967 1255 1132 1325; x_wconf 85' lang='lat' dir='ltr'>operis</span> <span class='ocrx_word' id='word_1_4' title='bbox 1166 1246 1353 1315; x_wconf 80' lang='lat' dir='ltr'><strong>integri</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1397 1238 1571 1294; x_wconf 83' lang='lat' dir='ltr'><strong>tabula</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1606 1233 1670 1286; x_wconf 82' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1712 1228 1852 1281; x_wconf 79' lang='lat' dir='ltr'>tertii</span> <span class='ocrx_word' id='word_1_8' title='bbox 1886 1236 1935 1276; x_wconf 87' lang='lat' dir='ltr'><strong>et</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 355 1346 1376 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 355 1346 1376 1425">
+     <span class='ocr_line' id='line_1_2' title="bbox 355 1346 1376 1425; baseline -0.044 0"><span class='ocrx_word' id='word_1_9' title='bbox 355 1368 530 1425; x_wconf 74' lang='lat' dir='ltr'>ultimi</span> <span class='ocrx_word' id='word_1_10' title='bbox 570 1359 653 1414; x_wconf 82' lang='lat' dir='ltr'><strong>vol</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 663 1353 852 1408; x_wconf 81' lang='lat' dir='ltr'>uminis</span> <span class='ocrx_word' id='word_1_12' title='bbox 872 1347 1059 1400; x_wconf 78' lang='lat' dir='ltr'>calcem</span> <span class='ocrx_word' id='word_1_13' title='bbox 1082 1346 1376 1407; x_wconf 77' lang='lat' dir='ltr'><strong>exponetur.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
